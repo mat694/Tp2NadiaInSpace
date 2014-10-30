@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<<<<<<< HEAD
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="org.andengine.ui.activity.SimpleBaseGameActivity"/>
 <fullyQualifiedTypeName name="android.graphics.Camera"/>
@@ -7,3 +8,6 @@
 <fullyQualifiedTypeName name="org.andengine.engine.options.ScreenOrientation"/>
 <fullyQualifiedTypeName name="org.andengine.entity.scene.background.Background"/>
 </qualifiedTypeNameHistroy>
+=======
+<qualifiedTypeNameHistroy/>
+>>>>>>> parent of 50fc3ed... Hard Reset

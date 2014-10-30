@@ -13,10 +13,16 @@
 		</list>
 	</section>
 	<section name="ImportExportAction">
+<<<<<<< HEAD
 		<item value="org.eclipse.egit.ui.internal.clone.GitCloneWizard" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
 		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
 			<item value="com.android.ide.eclipse.wizards.category"/>
 			<item value="org.eclipse.egit.ui.internal.clone.gitclonecategory"/>
+=======
+		<item value="com.android.ide.eclipse.adt.project.ImportProjectWizard" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="com.android.ide.eclipse.wizards.category"/>
+>>>>>>> parent of 50fc3ed... Hard Reset
 		</list>
 	</section>
 </section>

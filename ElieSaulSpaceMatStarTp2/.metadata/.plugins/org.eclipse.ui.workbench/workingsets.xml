@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
+<<<<<<< HEAD
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1414701805764_0" label="Window Working Set" name="Aggregate for window 1414701805764"/>
+=======
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1414538817960_0" label="Window Working Set" name="Aggregate for window 1414538817960"/>
+>>>>>>> parent of 50fc3ed... Hard Reset
 </workingSetManager>
